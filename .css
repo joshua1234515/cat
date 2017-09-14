@@ -1,6 +1,5 @@
-/* https://stackoverflow.com/questions/2182716/is-it-possible-to-set-the-equivalent-of-a-src-attribute-of-an-img-tag-in-css */
 
-@media only screen and (min-width: 700px) and (max-width:2000px){
+/* https://stackoverflow.com/questions/2182716/is-it-possible-to-set-the-equivalent-of-a-src-attribute-of-an-img-tag-in-css */
    body {
 	   text-align:center;
    }
@@ -37,6 +36,7 @@
 }
 .kittyloaf {
 	visibility:visible;
-	content:url(kittyloaf.gif);
+	content:url(images.jpg);
 }
 }
+
