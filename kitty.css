@@ -2,6 +2,7 @@
 /* https://stackoverflow.com/questions/2182716/is-it-possible-to-set-the-equivalent-of-a-src-attribute-of-an-img-tag-in-css */
    body {
 	   text-align:center;
+	   background-image:url(space.jpg);
    }
    img {
 	content:url(kitten-large.png);
@@ -39,6 +40,4 @@
 	content:url(images.jpg);
 }
 
-body {
-	background-image: url(space.jpg);
-	}
+
